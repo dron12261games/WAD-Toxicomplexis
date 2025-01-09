@@ -1,6 +1,3 @@
-# WAD-Toxicomplexis
-"Man With A Gun" style map for "Who is Who" project
-
 # Toxicomplexis ("Man With A Gun" style map for "Who is Who" project) [1 Level, MBF21, DOOM 2]
 
 # STATUS: 🏁WORK IN PROGRESS
